@@ -1,0 +1,171 @@
+.box{
+	background-image: url(6.jpg);
+	height: 700px;
+	
+	background-size: cover;
+}
+.box2{
+	
+	height: 500px;
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	margin-top: 15px;
+}
+.box3{
+	background-color: lightblue;
+	height: 500px;
+	width: 300px;
+	margin-left: 20px;
+}
+.box4{
+   background-color: lightblue;
+   height: 300px;
+   width: 300px;
+   margin-top: 15px;
+}
+
+.imghead{
+	height: 300px;
+	width: 300px;
+}
+.ded:hover{
+	color: blue;
+}
+.ded{
+    color: white;
+}
+
+}
+.imghead{
+	height: 300px;
+	width: 300px;
+}
+.elprimo:hover{
+	color: blue;
+}
+.elprimo{
+	color: white;
+}
+.imghead{
+	height: 300px;
+	width: 300px;
+}
+.mortis:hover{
+	color: blue;
+}
+.mortis{
+	color: white;
+}
+.imghead{
+	height: 300px;
+	width: 300px;
+}
+.kolt:hover{
+	color: blue;
+}
+.kolt{
+	color: white;
+}
+.imghead{
+	height: 300px;
+	width: 300px;
+}
+.feng:hover{
+    color: blue;
+}
+.feng{
+	color: white;
+}
+.imghead{
+	height: 300px;
+	width: 300px;
+}
+.kit:hover{
+	color: blue;
+}
+.kit{
+	color: white;
+}
+.imghead{
+	height: 300px;
+	width: 300px;
+}
+.spike:hover{
+	color: blue;
+}
+.spike{
+	color: white;
+
+.imghead{
+	height: 300px;
+	width: 300px;
+}
+}
+.volt:hover{
+	color: blue;
+}
+.volt{
+   color: white;
+}
+.pers{
+	background-color: ;
+	height: 100px;
+	width: 500px;
+	margin-left: auto;
+   margin-right: auto;
+}
+.wes{
+	font-family: "Comic Neue", cursive;
+	text-align: center;
+     margin-top: 20px;
+     font-size: 30px;
+}
+.wes:hover {
+  color: blue;
+}
+.show{
+	background-color: red;
+}
+.swe{
+	font-family: "Comic Neue", cursive;;
+}
+.fes{
+	text-align: center;
+}
+.fes:hover{
+	font-family: "Comic Neue", cursive;
+   color: blue;
+}
+.ghw{
+	background-image: url(9.jfif);
+	background-color: lightblue;
+	height: 150px;
+	width: 300px;
+}
+.lor{
+	background-image: url(10.jfif);
+	background-color: lightblue;
+	height: 150px;
+	width: 300px;
+	margin-left: 80px;
+}
+.lok{
+	background-image: url(11.jfif);
+	background-color: lightblue;
+	height: 150px;
+	width: 300px;
+	margin-left: 80px;
+}
+.qas{
+	background-image: url(12.jfif);
+	background-color: lightblue;
+	height: 150px;
+	width: 300px;
+	margin-left: 80px;
+}
+.swe{
+	background-color: blue;
+	background-image: url(14.jpg);
+}
